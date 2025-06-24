@@ -16,8 +16,8 @@ for i in range(items):
 average=total/items    
 
 
-print(f"The total cost of your items is {total}")
-print(f"The average cost of each item is {average}")
+print(f"The total cost of your items is {total:.2f}")
+print(f"The average cost of each item is {average:.2f}")
 
     
     
